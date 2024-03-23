@@ -1,8 +1,8 @@
 .hero {
-  background-image: url("../../../../public/images/banner.png");
+  background-image: url("../../../../public/images/Banner\ image.webp");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
+  background-size: fill;
   height: 90vh;
   width: 100%;
 }

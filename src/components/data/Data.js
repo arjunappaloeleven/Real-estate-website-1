@@ -1,22 +1,22 @@
 export const nav = [
   {
-    text: "home",
+    text: "Buy",
     path: "/",
   },
   {
-    text: "about",
+    text: "Rent",
     path: "/about",
   },
   {
-    text: "services",
+    text: "Sell",
     path: "/services",
   },
   {
-    text: "blog",
+    text: "Home Loans",
     path: "/blog",
   },
   {
-    text: "pricing",
+    text: "Agentfinder",
     path: "/pricing",
   },
   {
